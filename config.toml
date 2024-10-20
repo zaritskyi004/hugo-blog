@@ -5,6 +5,7 @@ enableRobotsTXT = true
 languageCode = "en"
 theme = "gokarna"
 title = "Andrii's blog"
+publishDir = "docs"
 
 [menu]
   [[menu.main]]
